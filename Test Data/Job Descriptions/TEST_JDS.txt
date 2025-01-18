@@ -1,0 +1,18 @@
+Electrical Engineer : Electrical Engineer,Electronics Hardware Engineers develop and design electronic components and systems, from circuit boards to hardware prototypes, ensuring functionality and performance.
+
+Data Analyst: Data Analyst,Data Analysts use their expertise in data analysis and machine learning to extract valuable insights and predictions from data. They build and train models, conduct statistical analysis, and communicate findings to drive data-driven decision-making in the organization.
+
+
+Lawyer: Family Lawyer, Mediators facilitate negotiations and dispute resolution between parties in conflict. They remain neutral and help parties reach mutually acceptable agreements through effective communication and problem-solving techniques.
+
+
+Teacher: A Classroom Teacher educates students in a specific subject or grade level. They create lesson plans, deliver instruction, assess student progress, and foster a positive learning environment.
+
+
+Veterinarian: Provide medical care and treatment to exotic animals, diagnose illnesses, perform surgeries, and educate owners on animal care.
+
+
+Inventory Control Specialist: Inventory Control Specialists manage and optimize inventory levels in a business. They track stock, monitor demand, and implement inventory control procedures to ensure efficient operations and minimize carrying costs.
+
+
+Java Developer: Java Software Engineers develop and maintain software applications using the Java programming language. They write code, debug applications, and collaborate with cross-functional teams to deliver high-quality software solutions.
