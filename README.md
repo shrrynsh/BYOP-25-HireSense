@@ -1,5 +1,7 @@
 # BYOP-25-HireSense
-My Project contain 3 pyhton notebooks namely: 1) jdnertrainnotebooknew
+
+My Project contain 3 pyhton notebooks namely: 
+                                              1) jdnertrainnotebooknew
                                               2)resumenertrainnotebooknew
                                               3)finalbyopnew
 
@@ -11,12 +13,14 @@ You have to upload the resumes and JDs of which embeddings has to be calculated 
 For Resumes use this format:
 
 text=text_preprocess(pdf_load("path of the resume"))
+
 ensemble = EnsembleNERResume(
         pretrained_model_path="/kaggle/input/vvvvvvvvvvvvv/resume_ner_model_pickle.pkl",
         device="cuda" if torch.cuda.is_available() else "cpu")
 
   
 predictions = ensemble.predict(text1)
+
 parsed_resume=group_entities_unique_resume(predictions1)
 
 Here parsed_resume contains the parsed resume in JSON Format.
@@ -24,12 +28,14 @@ Here parsed_resume contains the parsed resume in JSON Format.
 For JDs use this Format:
 
 jd=text_preprocess("type your jd here")
+
 ensemble = EnsembleNERJd(
         pretrained_model_path="/kaggle/input/vvvvvvvvvvvvv/jd_ner_model_pickle.pkl",
         device="cuda" if torch.cuda.is_available() else "cpu")
 
   
 predictionsjd = ensemble.predict(jd)
+
 parsed_jd=group_entities_unique_jd(predictionsjd)
 
 Here parsed_jd contains the parsed JD in JSON Format.
