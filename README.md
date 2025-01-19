@@ -1,4 +1,4 @@
-# BYOP-25-HireSense
+## BYOP-25-HireSense
 
 My Project contain 3 pyhton notebooks namely: 
                                               1) jdnertrainnotebooknew
@@ -45,3 +45,6 @@ Then upload parsed_resume and parsed_jd in the eval() function to calculate simi
 
 I have also provided Training Data as well as Training Data.
 The Training Data contains some resumes and JDs to test.The Resumes are present in pdf format whereas the JDs are present in txt format.
+
+
+# NOTE: The two parser models are uploaded in the Releases Section(due to large size).
