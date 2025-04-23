@@ -77,7 +77,7 @@ Upload the `parsed_resume` and `parsed_jd` into the `eval()` function in the thi
 
 ---
 
-This project simplifies the **candidate selection process** by automating the parsing of resumes and job descriptions and computing their similarity effectively. 🚀
+This project simplifies the **candidate selection process** by automating the parsing of resumes and job descriptions and computing their similarity effectively. 
 
 Enjoy exploring and enhancing the model! 
 
