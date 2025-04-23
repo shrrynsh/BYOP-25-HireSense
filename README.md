@@ -92,7 +92,7 @@ Upload the `parsed_resume` and `parsed_jd` into the `eval()` function in the thi
 ## 🎮 Notes
 - The embeddings are generated using a **T5 model**. ✨
 - Ensure that the pretrained model paths for `resume_ner_model_pickle.pkl` and `jd_ner_model_pickle.pkl` are correctly specified.
-- Use the provided **training data** to test the model's functionality. 📚
+- Use the provided **testing data** to test the model's functionality. 📚
 
 ---
 
