@@ -56,13 +56,13 @@ parsed_jd = group_entities_unique_jd(predictionsjd)
 Here, `parsed_jd` contains the parsed JD in **JSON format**. 
 
 ### 🔍 Similarity Calculation:
-Upload the `parsed_resume` and `parsed_jd` into the `eval()` function in the third notebook to calculate the **similarity score**. 🔎
+Upload the `parsed_resume` and `parsed_jd` into the `eval()` function in the third notebook to calculate the **similarity score**. 
 
 ---
 
 ## 📚 Testing Data
 - The repository includes **testing data** for testing the model.
-- Resumes are provided in **PDF format**. 📄
+- Resumes are provided in **PDF format**. 
 - JDs are provided in **TXT format**. 📄
 
 ---
