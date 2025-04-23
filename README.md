@@ -37,7 +37,7 @@ predictions = ensemble.predict(text)
 
 parsed_resume = group_entities_unique_resume(predictions)
 ```
-Here, `parsed_resume` contains the parsed resume in **JSON format**. 🔐
+Here, `parsed_resume` contains the parsed resume in **JSON format**. 
 
 ### 🔑 Job Descriptions:
 To process JDs, use the following format:
