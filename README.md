@@ -67,25 +67,6 @@ Upload the `parsed_resume` and `parsed_jd` into the `eval()` function in the thi
 
 ---
 
-## 📝 How to Run the Notebooks
-1. Clone this repository: 🔧
-   ```bash
-   git clone <repository_url>
-   cd <repository_folder>
-   ```
-
-2. Open the desired notebook in **Jupyter Notebook**, **JupyterLab**, or any compatible IDE. 🌐
-
-3. Follow the instructions provided in each notebook to:
-   - Load and parse resumes and JDs. 🔑
-   - Calculate similarity scores. 🔍
-
-4. Ensure that the required dependencies are installed:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-5. For the third notebook, upload the resumes and JDs for which embeddings need to be calculated, and follow the prescribed formats to process them. 🔄
 
 ---
 
