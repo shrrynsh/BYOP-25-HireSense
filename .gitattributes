@@ -1,1 +1,2 @@
 jd_ner_model_pickle.pkl filter=lfs diff=lfs merge=lfs -text
+resume_ner_model_pickle.pkl filter=lfs diff=lfs merge=lfs -text
