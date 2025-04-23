@@ -12,7 +12,7 @@ The project includes the following Python notebooks:
 1. **📄JD NER MODEL TRAIN NOTEBOOK **
    - Contains the training code for the **Job Description Parser Model**.
 
-2. **📄 resumenertrainnotebooknew**
+2. **📄RESUME NER MODEL TRAIN NOTEBOOK**
    - Contains the training code for the **Resume Parser Model**.
 
 3. **📄 finalbyopnew**
