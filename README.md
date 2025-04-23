@@ -81,4 +81,4 @@ This project simplifies the **candidate selection process** by automating the pa
 
 Enjoy exploring and enhancing the model! 
 
-## NOTE: The two parser models are uploaded in the Releases Section(due to large size).
+
