@@ -60,7 +60,7 @@ Upload the `parsed_resume` and `parsed_jd` into the `eval()` function in the thi
 
 ---
 
-## 📚 Training Data
+## 📚 Testing Data
 - The repository includes **testing data** for testing the model.
 - Resumes are provided in **PDF format**. 📄
 - JDs are provided in **TXT format**. 📄
