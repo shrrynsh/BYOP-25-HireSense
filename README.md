@@ -15,7 +15,7 @@ The project includes the following Python notebooks:
 2. **📄RESUME NER MODEL TRAIN NOTEBOOK**
    - Contains the training code for the **Resume Parser Model**.
 
-3. **📄 finalbyopnew**
+3. **📄Inference Notebook**
    - Loads the trained models and demonstrates the process of parsing resumes and JDs into JSON format.
    - Generates embeddings using the **T5 model**.
    - Calculates the similarity of an **Electrical Engineer JD** with resumes of an Electrical Engineer, Animator, and Bar Tender.
