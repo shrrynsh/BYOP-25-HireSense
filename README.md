@@ -9,7 +9,7 @@ This repository contains a **Candidate Selection Model "HireSense"** designed to
 ## 🔢 Project Structure
 The project includes the following Python notebooks:
 
-1. **📄JD NER MODEL TRAIN NOTEBOOk**
+1. **📄JD NER MODEL TRAIN NOTEBOOK**
    - Contains the training code for the **Job Description Parser Model**.
 
 2. **📄RESUME NER MODEL TRAIN NOTEBOOK**
